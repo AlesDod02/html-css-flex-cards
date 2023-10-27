@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+main{
+    margin-top: 200px;
+    margin-left: 300px;
+
+}
 
 
 .title{
@@ -21,5 +26,27 @@
     font-weight: lighter;
     font-family: 'Fredoka', sans-serif;
 }
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 85%;
+
+    
+    height: 500px;
+
+
+    
+
+}
+
+
+.item{width: 400px;
+    height: 150px;
+    background-color: #0F0E17 ;
+
+}
+
 
 
