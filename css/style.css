@@ -13,8 +13,11 @@ header {
 
 
 main{
-    margin-top: 200px;
-    margin-left: 300px;
+    padding-top: 200px;
+    padding-left: 300px;
+    background-color: rgb(236, 231, 231);
+    
+
     
 
 }
@@ -23,6 +26,8 @@ footer{
     height: 100px;
     box-sizing: border-box;
     box-shadow: 2px 2px 5px 2px#3A3A3C;
+    
+    
     
 }
 
@@ -104,6 +109,7 @@ footer{
     display: flex;
     
     justify-content: space-between;
+    min-width: 30%;
 }
 
 
