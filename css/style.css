@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     
+    
 }
 header {
     background-color: #3A3A3C;
@@ -10,9 +11,11 @@ header {
     box-shadow: 2px 2px 5px 2px#3A3A3C;
 }
 
+
 main{
     margin-top: 200px;
     margin-left: 300px;
+    
 
 }
 footer{
