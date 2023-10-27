@@ -6,6 +6,8 @@
 }
 header {
     background-color: #3A3A3C;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 5px 2px#3A3A3C;
 }
 
 main{
@@ -16,6 +18,8 @@ main{
 footer{
     background-color: #3A3A3C;
     height: 100px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 5px 2px#3A3A3C;
     
 }
 
