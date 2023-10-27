@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.title{
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Fredoka', sans-serif;
+    color:  #E53170
+}
+
+.subtitle{
+    text-align: center;
+    padding-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-weight: lighter;
+    font-family: 'Fredoka', sans-serif;
+}
+
+
